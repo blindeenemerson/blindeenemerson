@@ -2,7 +2,7 @@
 
 # Hi, I'm Benjamin Lindeen 👋
 
-## Associate Project Engineer I @ Emerson (AspenTech, OSII) DGM (Digital Grid Management
+## Associate Project Engineer I @ Emerson (AspenTech, OSII) DGM (Digital Grid Management)
 
 [LinkedIn](https://www.linkedin.com/in/benjaminlindeen) | `benjamin.lindeen@emerson.com` | `benjamin.lindeen@aspentech.com` | `benjamin.lindeen@psii.com`
 
