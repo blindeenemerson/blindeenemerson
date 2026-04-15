@@ -4,7 +4,7 @@
 
 ## Associate Project Engineer I @ Emerson (AspenTech, OSII) DGM (Digital Grid Management)
 
-[LinkedIn](https://www.linkedin.com/in/benjaminlindeen) | `benjamin.lindeen@emerson.com` | `benjamin.lindeen@aspentech.com` | `benjamin.lindeen@psii.com`
+[LinkedIn](https://www.linkedin.com/in/benjaminlindeen) | `benjamin.lindeen@emerson.com` | `benjamin.lindeen@aspentech.com` | `benjamin.lindeen@osii.com`
 
 [![wakatime](https://wakatime.com/badge/user/434c0329-c520-4d79-843a-c7caf8d927af.svg)](https://wakatime.com/@434c0329-c520-4d79-843a-c7caf8d927af)
 
